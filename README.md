@@ -3,10 +3,10 @@ Brief Description:)
 The Counter App is a simple, interactive web application that allows users to increment, decrement, and reset a numerical counter. It supports dynamic step sizes for changes and allows the counter value to go into negative numbers. This app was built to practice React fundamentals, state management, and user interaction handling.
 
 🔗 GitHub Repository Link
-https://github.com/your-username/counter-app
+(https://github.com/Dkadmicart/counter-app.git)
 
 🌐 Live Demo Link
-(https://dkadmicart.github.io/counter-app/
+(https://dkadmicart.github.io/counter-app/)
 
 
 🛠 Technologies Used
@@ -22,7 +22,7 @@ CSS
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/counter-app.git
+git clone https://github.com/Dkadmicart/counter-app.git
 Navigate to the project folder:
 
 bash
@@ -45,9 +45,6 @@ Challenge: Allowing negative values while preventing any UI glitches or unexpect
 Solution: Ensured decrement function had no restrictions and tested various scenarios thoroughly.
 
 📸 Screenshots of the Application UI
-(Include relevant screenshots here)
-![Counter App Screenshot](./screenshots 🎥 Demo Video Link (optional)
+<img width="1897" height="954" alt="image" src="https://github.com/user-attachments/assets/01c0137c-9418-4926-b1af-3054e86fdba3" />
 
-Watch the demo video
-
-Feel free to customize this template with your actual repository links, live demo URL, screenshots, and demo video!
+THANKYOU FOR READING!!
