@@ -1,23 +1,29 @@
-Counter App
-A simple React Counter application featuring increment, decrement, reset functionality, adjustable step size, and support for negative values.
+"Counter App"(minor project)
+Brief Description:)
+The Counter App is a simple, interactive web application that allows users to increment, decrement, and reset a numerical counter. It supports dynamic step sizes for changes and allows the counter value to go into negative numbers. This app was built to practice React fundamentals, state management, and user interaction handling.
 
-Features
-Increment: Increase the counter value by the selected step size.
+🔗 GitHub Repository Link
+(https://github.com/Dkadmicart/counter-app.git)
 
-Decrement: Decrease the counter value by the selected step size, allowing negative values.
+🌐 Live Demo Link
+(https://dkadmicart.github.io/counter-app/)
 
-Reset: Reset the counter value to zero.
 
-Step Size: Dynamically adjust the step size for increment/decrement operations.
+🛠 Technologies Used
+React
 
-Supports both positive and negative counter values.
+JavaScript
 
-Installation
-Clone this repository:
+HTML
+
+CSS
+
+⚙️ How to Run the App Locally
+Clone the repository:
 
 bash
-git clone https://github.com/Dkadmicart/counter-app.git   
-Navigate to the project directory:
+git clone https://github.com/Dkadmicart/counter-app.git
+Navigate to the project folder:
 
 bash
 cd counter-app
@@ -25,25 +31,20 @@ Install dependencies:
 
 bash
 npm install
-Start the application:
+Start the development server:
 
 bash
 npm start
-Usage
-Use the increment and decrement buttons to change the counter value by the selected step size.
+Open your browser at http://localhost:3000 to see the app.
 
-Modify the step size input to change how much each increment or decrement changes the counter.
+🧪 Challenges Faced & Solutions
+Challenge: Handling dynamic step sizes while ensuring the counter updates correctly with user input.
+Solution: Implemented controlled components and updated state with validations to ensure seamless user interaction.
 
-Click the reset button to return the counter to zero.
+Challenge: Allowing negative values while preventing any UI glitches or unexpected behavior.
+Solution: Ensured decrement function had no restrictions and tested various scenarios thoroughly.
 
-The counter allows negative values as well as positive.
+📸 Screenshots of the Application UI
+<img width="1897" height="954" alt="image" src="https://github.com/user-attachments/assets/01c0137c-9418-4926-b1af-3054e86fdba3" />
 
-Technologies Used
-React
-
-JavaScript
-
-CSS
-
-License
-This project is open source and available under the MIT License.
+THANKYOU FOR READING!!
